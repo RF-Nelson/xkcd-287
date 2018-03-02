@@ -111,7 +111,7 @@ As stated in the comic, this problem is similar to the [Knapsack problem](https:
 
 - File opening/reading is encapsulated into the `FileParser` class; the primary functionality of this class to abstract away the processing of one or more files of text
 - After the file(s) have been processed, the text within each file is converted into an instance of `ProblemData`. The `ProblemData` class is constructed to contain instance viariables that represent each important piece of data. It also converts the decimal values on the menu to integers to avoid any unforseen consequences that might arise from using floating-point arithmetic. 
-- The `Solver` module has an abstract `#solve` method which inhertiing classes must implement, as well as a shared `#print_results` method.
+- The `Solver` module has an abstract `#solve` method which inheriting classes must implement, as well as a shared `#print_results` method.
 
 ## Algorithmic Analysis
 
