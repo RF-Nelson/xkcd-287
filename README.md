@@ -1,7 +1,7 @@
 # XKCD #287
 
 This is a small project to solve the problem proposed in the [following xkcd comic](https://xkcd.com/287/):
-<br><div align="center"><img src="https://www.explainxkcd.com/wiki/images/0/0e/np_complete.png"/><br><br></div>
+<br><div align="center"><img src="https://i.imgur.com/StGgQKC.png"/><br><br></div>
 
 ## Usage
 
